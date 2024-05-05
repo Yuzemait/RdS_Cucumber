@@ -1,0 +1,22 @@
+{
+  "name": "rds_cucumber",
+  "version": "1.0.0",
+  "description": "Entrega final de Requerimientos de software",
+  "main": "cucumber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuzemait/RdS_Cucumber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuzemait/RdS_Cucumber/issues"
+  },
+  "homepage": "https://github.com/Yuzemait/RdS_Cucumber#readme",
+  "dependencies": {
+    "cucumber": "^6.0.7"
+  }
+}
